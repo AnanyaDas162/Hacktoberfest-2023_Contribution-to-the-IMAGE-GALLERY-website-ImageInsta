@@ -40,4 +40,5 @@ This repository is for everyone who wants to participate in Hacktoberfest 2023.
 <h1>Just give a glimpse!!</h1>
 <h3>Home Page</h3>
 <img src="https://user-images.githubusercontent.com/84580932/272591862-62352dfc-6e15-40f7-9bef-dd281d26b7a5.jpeg" width="50%">
-
+<h3>Slide show Page</h3>
+<img src="https://user-images.githubusercontent.com/84580932/272593695-6d92a4e6-72ea-4601-bb7b-8826cf97531d.jpeg" width="50%">
