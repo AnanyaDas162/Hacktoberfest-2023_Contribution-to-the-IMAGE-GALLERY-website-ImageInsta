@@ -7,18 +7,16 @@ This repository is for everyone who wants to participate in Hacktoberfest 2023.
 <img src = "https://miro.medium.com/v2/resize:fit:1200/1*Lz_KFgbak2sUjwjOG9SZ4g.png" alt= "Its time to contribute!!" height = "100%" width = "100%">
 <h1>🎖️🎖️Rewards ::🎖️🎖️</h1>
 <h6>You can get awesome goodies like T-Shirt and some stickers for FREE!!!🤩🤩</h6>
-<h1>👨‍💻👩‍💻Upload your Projects or DSA related Programs in any Language👨‍💻👩‍💻</h1>
-<h6>Use this project to make your first contribution to an open source project on GitHub!!</h6>
-<br>
+
 <h1>What is Hacktoberfest?</h1>
 <h6>Hacktoberfest is a month-long celebration of open-source software by DigitalOcean that encourages participation in giving back to the open-source community. Developers get involved by completing pull requests, participating in events, and donating to open source projects.</h6>
 <br>
-<img src="https://github.com/AnanyaDas162/LGMVIP-WEBDEV/blob/main/Images/github-logo-octocat-.gif" style="display:flex; justify-content:center;">
+<img src="https://miro.medium.com/v2/resize:fit:852/1*2NOEJNLQVgV_7Ze9_ggPoA.gif" style="display:flex; justify-content:center;">
 <br>
 <h1>Why should you contribute for Hacktoberfest??🤔🤔</h1>
 <h6>It encourages developers and also beginners to contribute to open source projects and practice programming by participating in solving problems across projects.</h6>
 <br>
-<img src="https://github.com/AnanyaDas162/LGMVIP-WEBDEV/blob/main/Images/why-contribute.gif">
+<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif">
 <br>
 <h1>How to participate??🤔🤔</h1>
 <h3>👇👇Steps to follow:👇👇</h3>
