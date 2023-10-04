@@ -1,10 +1,10 @@
-#Hacktoberfest-2023_Contribution-to-the-IMAGE-GALLERY-website-ImageInsta
+<h1>Hacktoberfest-2023_Contribution-to-the-IMAGE-GALLERY-website-ImageInsta</h1>
 
 This repository is for everyone who wants to participate in Hacktoberfest 2023. 
 <br>
 <h1>Hacktober Fest 2023 For Everyone!👋👋</h1>
 <br>
-<img src = "https://github.com/AnanyaDas162/LGMVIP-WEBDEV/blob/main/Images/download.jfif" alt= "Its time to contribute!!" height = "100%" width = "100%">
+<img src = "https://miro.medium.com/v2/resize:fit:1200/1*Lz_KFgbak2sUjwjOG9SZ4g.png" alt= "Its time to contribute!!" height = "100%" width = "100%">
 <h1>🎖️🎖️Rewards ::🎖️🎖️</h1>
 <h6>You can get awesome goodies like T-Shirt and some stickers for FREE!!!🤩🤩</h6>
 <h1>👨‍💻👩‍💻Upload your Projects or DSA related Programs in any Language👨‍💻👩‍💻</h1>
