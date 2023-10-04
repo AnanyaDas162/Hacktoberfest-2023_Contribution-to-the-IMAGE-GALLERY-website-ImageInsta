@@ -36,4 +36,8 @@ This repository is for everyone who wants to participate in Hacktoberfest 2023.
 <h6>2. This project is implemented using HTML, CSS and JavaScript. You can work in this languages.</h6>
 <h6>3. If you want to work on any other tech stacks (Python, Django, JDBC, MERN etc.), you can also add these.</h6>
 <h6>4. In case you need to add an external package, install it by using npm. Don't push the complete package file here.</h6>
+<br>
+<h1>Just give a glimpse!!</h1>
+<h3>Home Page</h3>
+<img src="https://user-images.githubusercontent.com/84580932/272591862-62352dfc-6e15-40f7-9bef-dd281d26b7a5.jpeg" width="50%">
 
