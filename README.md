@@ -16,15 +16,15 @@ This repository is for everyone who wants to participate in Hacktoberfest 2023.
 <h1>Why should you contribute for Hacktoberfest??🤔🤔</h1>
 <h6>It encourages developers and also beginners to contribute to open source projects and practice programming by participating in solving problems across projects.</h6>
 <br>
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif">
+<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="45%">
 <br>
 <h1>How to participate??🤔🤔</h1>
 <h3>👇👇Steps to follow:👇👇</h3>
 <h3>1. Register for Hacktoberfest</h3>
 <a href="https://hacktoberfest.com/">Register Here</a>
-<h3>2. Add Project/Program in any Language you like:</h3>
-<h6>Add any of your simple or complex Project/Program in any language you like in this repository by clicking "Add File -> Create new File".</h6>
-
+<h3>2. Fork the repository to your account.</h3>
+<img src="https://user-images.githubusercontent.com/64744084/95018364-e7d2df00-067c-11eb-9989-5ed586adb11b.jpg" width="45%">
+<h6>Read the raised issues and work on that and then contribute!!</h6>
 <h3>4. Create Pull Request:</h3>
 <h6>Once you have completed these steps, you are ready to start contributing by clicking on Create Pull Request.</h6>
 <h3>5. Give this Project a Star:</h3>
