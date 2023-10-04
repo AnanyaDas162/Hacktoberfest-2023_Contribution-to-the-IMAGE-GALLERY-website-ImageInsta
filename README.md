@@ -25,13 +25,13 @@ This repository is for everyone who wants to participate in Hacktoberfest 2023.
 <h3>2. Fork the repository to your account.</h3>
 <img src="https://user-images.githubusercontent.com/64744084/95018364-e7d2df00-067c-11eb-9989-5ed586adb11b.jpg" width="45%">
 <h6>Read the raised issues and work on that and then contribute!!</h6>
-<h3>4. Create Pull Request:</h3>
+<h3>3. Create Pull Request:</h3>
 <h6>Once you have completed these steps, you are ready to start contributing by clicking on Create Pull Request.</h6>
-<h3>5. Give this Project a Star:</h3>
+<h3>4. Give this Project a Star:</h3>
 <h6>If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.</h6>
 <h1>📝📝Notes :: 📝📝</h1>
 <h6>1. Don't Create Pull Request to update "readme.md" File.</h6>
-<h6>2. Upload or Create File in Specified Folders.</h6>
-<h6>3. If Specified Folder not Found then Create Folder and then Upload or Create File.</h6>
+<h6>2. This project is implemented using HTML, CSS and JavaScript. You can work in this languages.</h6>
+<h6>3. If you want to work on any other tech stacks (Python, Django, JDBC, MERN etc.), you can also add these.</h6>
 <h6>4. In case you need to add an external package, install it by using npm. Don't push the complete package file here.</h6>
 
