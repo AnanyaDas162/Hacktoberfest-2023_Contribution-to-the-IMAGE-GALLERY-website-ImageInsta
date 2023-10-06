@@ -497,4 +497,25 @@
                         width:33%;
                     }
                 }
+.typeffect{
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid transparent; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    
+    animation: 
+    typing 3.5s steps(40,end);
+
+}                
+@keyframes typing {
+    0% { width: 0;
+        border-color:white;
+     }
+     50%{
+        border-color:transparent;
+     }
+    100% { width: 100%;
+        border-color:transparent;
+    }
+  }
                 
